@@ -68,6 +68,6 @@
 ![](活動圖3.png)
 
 ### 頁面設計
-[![]](https://youtu.be/TQblnyCNGOA)
+[實際操作說明](https://youtu.be/TQblnyCNGOA)
 ![](hw5.png)
 
