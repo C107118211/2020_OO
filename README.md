@@ -67,7 +67,10 @@
 ![](活動圖2.png)
 ![](活動圖3.png)
 
-### 頁面設計
-[實際操作說明](https://youtu.be/TQblnyCNGOA)
+### 分鏡圖
+![](輸入欄位設定.png)
+![](按鈕介紹.png)
 ![](hw5.png)
+[實際操作說明](https://youtu.be/TQblnyCNGOA)
+
 
