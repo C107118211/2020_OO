@@ -68,7 +68,7 @@
 ![](活動圖3.png)
 
 ### 分鏡圖
-![](輸入欄位設定.png)
+![](輸入欄位.png)
 ![](按鈕介紹.png)
 ![](hw5.png)
 [實際操作說明](https://youtu.be/TQblnyCNGOA)
